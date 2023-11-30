@@ -18,7 +18,7 @@ Recherche par Ville : Trouver des hôtels spécifiques dans une ville donnée.
 2- Serveur d'Application : Le projet a été développé et testé avec WildFly 27. Assurez-vous de déployer l'application sur un serveur WildFly 27 ou une version compatible avec Java EE.
 
 # Comment Démarrer
-Clonez le dépôt : git clone [https://github.com/votre-utilisateur/projet-ejb-hotels-villes.git](https://github.com/bananaacaat/Gestion-des-Hotels-et-Villes.git)
+Clonez le dépôt : git clone https://github.com/bananaacaat/Gestion-des-Hotels-et-Villes.git
 Importez le projet dans votre environnement de développement Java EE.
 Configurez la base de données comme indiqué dans la section Configuration du Projet.
 Démarrez WildFly 27 et déployez l'application.
