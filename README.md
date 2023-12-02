@@ -24,8 +24,8 @@ https://github.com/bananaacaat/Gestion-des-Hotels-et-Villes/assets/147453939/aa5
 https://github.com/bananaacaat/Gestion-des-Hotels-et-Villes/assets/147453939/fd159d98-d1a8-4c50-a5cd-99284960f637
 
 # Configuration du Projet
-1- Base de Données : Assurez-vous de configurer les paramètres de connexion à votre base de données dans le fichier persistence.xml.
-2- Serveur d'Application : Le projet a été développé et testé avec WildFly 27. Assurez-vous de déployer l'application sur un serveur WildFly 27 ou une version compatible avec Java EE.
+- Base de Données : Assurez-vous de configurer les paramètres de connexion à votre base de données dans le fichier persistence.xml.
+- Serveur d'Application : Le projet a été développé et testé avec WildFly 27. Assurez-vous de déployer l'application sur un serveur WildFly 27 ou une version compatible avec Java EE.
 
 # Comment Démarrer
 Clonez le dépôt : git clone https://github.com/bananaacaat/Gestion-des-Hotels-et-Villes.git
