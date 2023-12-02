@@ -1,6 +1,6 @@
 # Projet EJB de Gestion des Hôtels et Villes
 Description du Projet:
-Ce projet vise à créer un système de gestion des hôtels et des villes en utilisant la technologie EJB (Enterprise JavaBeans). L'application permettra aux utilisateurs de rechercher des hôtels dans différentes villes, de consulter les détails des chambres disponibles, de faire des réservations, et bien plus encore.
+Ce projet vise à créer un système de gestion des hôtels et des villes en utilisant la technologie EJB (Enterprise JavaBeans). L'application permettra aux utilisateurs de rechercher des hôtels dans différentes villes.
 
 # Fonctionnalités
 Gestion des Hôtels : Ajouter, mettre à jour et supprimer des informations sur les hôtels.
