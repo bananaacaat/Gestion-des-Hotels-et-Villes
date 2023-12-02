@@ -7,11 +7,21 @@ Gestion des Hôtels : Ajouter, mettre à jour et supprimer des informations sur 
 Gestion des Villes : Ajouter, mettre à jour et supprimer des informations sur les villes.
 Recherche par Ville : Trouver des hôtels spécifiques dans une ville donnée.
 
-#Technologies Utilisées
+# Technologies Utilisées
 - Java EE : Utilisation d'Enterprise JavaBeans pour la logique métier.
 - Java Persistence API (JPA) : Stockage des données dans une base de données.
 - Servlets : Gestion des requêtes HTTP et des sessions utilisateur.
 - Serveur d'Application : Le projet a été testé avec WildFly 27.
+
+# Videos Explicatifs
+## Gestion des Villes
+https://github.com/bananaacaat/Gestion-des-Hotels-et-Villes/assets/147453939/daec5049-2741-4df0-b137-99dbbed114e4
+
+## Gestion des Hotels
+https://github.com/bananaacaat/Gestion-des-Hotels-et-Villes/assets/147453939/aa5a3346-7ce8-4cb2-9194-48d32db4880c
+
+## Hotels par Ville
+https://github.com/bananaacaat/Gestion-des-Hotels-et-Villes/assets/147453939/fd159d98-d1a8-4c50-a5cd-99284960f637
 
 # Configuration du Projet
 1- Base de Données : Assurez-vous de configurer les paramètres de connexion à votre base de données dans le fichier persistence.xml.
